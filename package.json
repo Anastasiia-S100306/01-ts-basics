@@ -1,4 +1,5 @@
 {
+"base": "./" ,
   "name": "01-ts-basics",
   "private": true,
   "version": "0.0.0",
